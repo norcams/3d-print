@@ -38,6 +38,6 @@ else if (type == "small") {
         scale([0.25,0.25,1])
             svglogo(4,5,6);
         translate([22,32,0.4])
-            cube([8.6,3.6,2]);
+            cube([8.6,3.6,2.4]);
     }
 }

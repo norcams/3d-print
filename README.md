@@ -38,7 +38,7 @@ This variant uses one [magnet with dimensions 20mm x 10mm x 2mm](https://www.ban
 
 This variant uses one [magnet with dimensions 8mm x 3mm x 2mm](https://www.banggood.com/50pcs-N35-Strong-Block-Magnets-8mmx3mmx2mm-Rare-Earth-Neodymium-p-963836.html).
 
-* Layer 12: Stop print and insert magnet
+* Layer 14: Stop print and insert magnet
 * Layer 0-20: Blue filament
 * Layer 20-25: Light blue filament
 * Layer 25-end: White filament
